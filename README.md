@@ -1,2 +1,2 @@
 # actions-test
-Repository for testing GitHub Actions
+Repository for testing GitHub Pages and GitHub Actions features
